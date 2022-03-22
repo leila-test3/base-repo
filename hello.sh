@@ -1,1 +1,1 @@
-echo "Hello, friend!"
+echo "Hello, friend(s)!"
